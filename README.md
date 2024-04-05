@@ -1,2 +1,2 @@
-# PI3---MageTruck
+# PI3-MageTruck
 Projeto Integrador III - MageTruck
